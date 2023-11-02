@@ -12,7 +12,7 @@ if (X > Y) {
     Y = temp;
 }
 
-for (let i = X; i <= Y; i++) {
+for (let i = X + 1; i < Y; i++) {
     if (i % 2 !== 0) {
         somaImpares += i;
     }
