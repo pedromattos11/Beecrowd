@@ -6,7 +6,7 @@ class Program
     {
         string nome;
         double salarioFixo, totalVendas, comissao, salarioTotal;
-
+        
         nome = Console.ReadLine();
         salarioFixo = double.Parse(Console.ReadLine());
         totalVendas = double.Parse(Console.ReadLine());
