@@ -6,15 +6,16 @@ import (
 )
 
 func main() {
-	var day, start, day2, end string
+	var day, start, end string
+	var dayNum1, dayNum2, hour1, min1, sec1, hour2, min2, sec2 int
 
-	fmt.Scanln(&day)
-	fmt.Scanln(&start)
-	fmt.Scanln(&day2)
-	fmt.Scanln(&end)
+	fmt.Scanf("%s %d", &day, &dayNum1)
+	fmt.Scanf("%d:%d:%d", &hour1, &min1, &sec1)
+	fmt.Scanf("%s %d", &day, &dayNum2)
+	fmt.Scanf("%d:%d:%d", &hour2, &min2, &sec2)
 
-	startTime, _ := time.Parse("Dia 2", start)
-	endTime, _ := time.Parse("Dia 2", end)
+	startTime := time.Date(0, 0, dayNum1, hour1, min1, sec1, 0, time.UTC)
+	endTime := time.Date(0, 0, dayNum2, hour2, min2, sec2, 0, time.UTC)
 
 	duration := endTime.Sub(startTime)
 
