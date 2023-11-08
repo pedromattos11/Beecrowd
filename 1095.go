@@ -3,7 +3,12 @@ package main
 import "fmt"
 
 func main() {
-    for i, j := 1, 60; j >= 0; i += 3, j -= 5 {
+    i := 1
+    j := 60
+
+    for i <= 9 {
         fmt.Printf("I=%d J=%d\n", i, j)
+        i += 3
+        j -= 5
     }
 }
