@@ -1,11 +1,11 @@
 (
-  SELECT 'Podium: ' || team AS name
-  FROM league
-  WHERE position BETWEEN 1 AND 3
+SELECT concat('Podium: ', team) as name 
+FROM league 
+WHERE position <= 3
 )
-UNION
+UNION ALL
 (
-  SELECT 'Demoted: ' || team AS name
-  FROM league
-  WHERE position >= (SELECT MAX(position) - 1 FROM league)
+SELECT concat('Demoted: ', team) as name 
+FROM league
+WHERE position >= 14
 )
