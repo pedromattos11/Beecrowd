@@ -1,3 +1,2 @@
-UPDATE virus
-SET name = REPLACE(name, 'H1', 'X')
-WHERE name LIKE '%H1%';
+SELECT replace(name, 'H1', 'X') AS name
+FROM virus
