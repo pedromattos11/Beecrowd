@@ -4,17 +4,17 @@ Welcome to my BeeCrowd coding exercises repository! Here, you can find a collect
 
 ## Table of Contents
 
-- [JavaScript](/javascript) 
-- [Java](/java)
-- [Python](/python)
-- [Ruby](/ruby)
-- [Haskell](/haskell)
-- [R](/r)
-- [Rust](/rust)
-- [SQL](/sql)
-- [Go](/go)
-- [PHP](/php)
-- [C#](/csharp)
+- [JavaScript](/JAVASCRIPT) 
+- [Java](/JAVA)
+- [Python](/PYTHON)
+- [Ruby](/RUBY)
+- [Haskell](/HASKELL)
+- [R](/R)
+- [Rust](/RUST)
+- [SQL](/SQL)
+- [Go](/GO)
+- [PHP](/PHP)
+- [C#](/C#)
 
 ## How to Use
 
