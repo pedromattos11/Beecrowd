@@ -22,6 +22,12 @@ Welcome to my BeeCrowd coding exercises repository! Here, you can find a collect
 2. Browse the exercises and solutions in that language.
 3. Explore and learn from the code!
 
+## Contact with me
+
+- Linkedin: linkedin.com/in/pedro-mattos-09b7271b4/
+- Instagram: instagram.com/matt0sy/
+- GitHub: github.com/pedromattos11/
+
 ## Contributions
 
 If you have solved exercises in any language not covered here, feel free to contribute! Create a pull request, and I'll be happy to review and merge it.
