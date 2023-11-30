@@ -14,6 +14,11 @@ rl.on('line', (line) => {
     return;
   }
 
-  console.log(`Sequência de ${m} até ${n}: ${[m, ...Array(n - m + 1).keys()].join(', ')}`);
+  const arr = Array(n - m + 1);
+  if (arr.length === 0) {
+    arr.push(m);
+  }
+
+  console.log(`Sequência de ${m} até ${n}: ${arr.join(', ')}`);
   console.log(`Soma: ${(m + n) * Math.floor((n - m) / 2)}`);
 });
