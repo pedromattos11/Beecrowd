@@ -18,8 +18,8 @@ Welcome to my Beecrowd coding exercises repository. Here, you can find a collect
 
 ## How to Use
 
-1. Click on the language folder you are interested in.
-2. Browse the exercises and solutions in that language.
+1. Click on the language folder you are interested in
+2. Browse the exercises and solutions in that language
 3. Explore and learn from the code!
 
 ## Contact with me
