@@ -1,6 +1,6 @@
 # Beecrowd Coding Exercises Repository
 
-Welcome to my Beecrowd coding exercises repository! Here, you can find a collection of exercises solved in various programming languages. Feel free to explore the folders based on your language of interest!
+Welcome to my Beecrowd coding exercises repository. Here, you can find a collection of exercises solved in various programming languages. Feel free to explore the folders based on your language of interest.
 
 ## Table of Contents
 
@@ -18,9 +18,9 @@ Welcome to my Beecrowd coding exercises repository! Here, you can find a collect
 
 ## How to Use
 
-1. Click on the language folder you are interested in.
-2. Browse the exercises and solutions in that language.
-3. Explore and learn from the code!
+1. Click on the language folder you are interested in
+2. Browse the exercises and solutions in that language
+3. Explore and learn from the code.
 
 ## Contact with me
 
