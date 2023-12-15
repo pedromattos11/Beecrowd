@@ -12,7 +12,7 @@ Welcome to my Beecrowd coding exercises repository. Here, you can find a collect
 - [R](/R)
 - [Rust](/RUST)
 - [SQL](/SQL)
-- [Go](/GO)
+- [GO](/GO)
 - [PHP](/PHP)
 - [C#](/C#)
 
